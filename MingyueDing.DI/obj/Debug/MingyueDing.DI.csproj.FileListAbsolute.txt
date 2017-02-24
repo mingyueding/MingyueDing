@@ -1,0 +1,5 @@
+C:\Users\mding\Documents\Visual Studio 2015\Projects\MingyueDing\MingyueDing.DI\bin\Debug\MingyueDing.DI.dll
+C:\Users\mding\Documents\Visual Studio 2015\Projects\MingyueDing\MingyueDing.DI\bin\Debug\MingyueDing.DI.pdb
+C:\Users\mding\Documents\Visual Studio 2015\Projects\MingyueDing\MingyueDing.DI\obj\Debug\MingyueDing.DI.csprojResolveAssemblyReference.cache
+C:\Users\mding\Documents\Visual Studio 2015\Projects\MingyueDing\MingyueDing.DI\obj\Debug\MingyueDing.DI.dll
+C:\Users\mding\Documents\Visual Studio 2015\Projects\MingyueDing\MingyueDing.DI\obj\Debug\MingyueDing.DI.pdb

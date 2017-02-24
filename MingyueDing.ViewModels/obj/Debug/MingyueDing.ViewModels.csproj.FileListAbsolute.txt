@@ -1,0 +1,5 @@
+C:\Users\mding\Documents\Visual Studio 2015\Projects\MingyueDing\MingyueDing.ViewModels\bin\Debug\MingyueDing.ViewModels.dll
+C:\Users\mding\Documents\Visual Studio 2015\Projects\MingyueDing\MingyueDing.ViewModels\bin\Debug\MingyueDing.ViewModels.pdb
+C:\Users\mding\Documents\Visual Studio 2015\Projects\MingyueDing\MingyueDing.ViewModels\obj\Debug\MingyueDing.ViewModels.csprojResolveAssemblyReference.cache
+C:\Users\mding\Documents\Visual Studio 2015\Projects\MingyueDing\MingyueDing.ViewModels\obj\Debug\MingyueDing.ViewModels.dll
+C:\Users\mding\Documents\Visual Studio 2015\Projects\MingyueDing\MingyueDing.ViewModels\obj\Debug\MingyueDing.ViewModels.pdb
