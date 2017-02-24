@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MingyueDing.Web", "MingyueDing\MingyueDing.Web.csproj", "{5429FAB1-FEE9-4B6E-9A2A-A985F682779E}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MingyueDing.Test", "MingyueDing.Test\MingyueDing.Test.csproj", "{361A21A8-1608-42C1-BBFB-9E70EAB724E6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MingyueDing.Models", "MingyueDing.Models\MingyueDing.Models.csproj", "{027E1343-5343-43E0-BF8D-C6E490F7B37D}"
@@ -13,16 +11,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MingyueDing.ViewModels", "M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MingyueDing.DI", "MingyueDing.DI\MingyueDing.DI.csproj", "{BC00B16A-C763-48E4-8217-150B3606A999}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MingyueDing.Web", "MingyueDing.Web\MingyueDing.Web.csproj", "{3156758D-9C9E-4377-975C-82377787F9EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5429FAB1-FEE9-4B6E-9A2A-A985F682779E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5429FAB1-FEE9-4B6E-9A2A-A985F682779E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5429FAB1-FEE9-4B6E-9A2A-A985F682779E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5429FAB1-FEE9-4B6E-9A2A-A985F682779E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{361A21A8-1608-42C1-BBFB-9E70EAB724E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{361A21A8-1608-42C1-BBFB-9E70EAB724E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{361A21A8-1608-42C1-BBFB-9E70EAB724E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -39,6 +35,10 @@ Global
 		{BC00B16A-C763-48E4-8217-150B3606A999}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC00B16A-C763-48E4-8217-150B3606A999}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC00B16A-C763-48E4-8217-150B3606A999}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3156758D-9C9E-4377-975C-82377787F9EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3156758D-9C9E-4377-975C-82377787F9EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3156758D-9C9E-4377-975C-82377787F9EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3156758D-9C9E-4377-975C-82377787F9EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
